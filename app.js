@@ -61,3 +61,5 @@ function totalCalculation() {
     totalField.innerText = tax + subTotal;
 
 }
+
+///end this 
